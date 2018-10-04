@@ -1,8 +1,5 @@
 #Set up the working directory
 
-setwd("C:/PGDDS/Course 2/Gramener Case study- group project")
-install.packages('corrplot')
-
 #1. Introduction- Determining the driving factors or driver variables behind loan default through EDA
 # 1.1- Load libraries and data files
 
